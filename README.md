@@ -1,9 +1,7 @@
 # Drawing-Paint-Application
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Maxamed-NCX
-/Drawing-Paint-Application)
-![GitHub top language](https://img.shields.io/github/languages/top/Maxamed-NCX
-/Drawing-Paint-Application)
+![GitHub repo size](https://img.shields.io/github/repo-size/Maxamed-NCX/Drawing-Paint-Application)
+![GitHub top language](https://img.shields.io/github/languages/top/Maxamed-NCX/Drawing-Paint-Application)
 
 ### Purpose
 
